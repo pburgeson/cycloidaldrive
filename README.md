@@ -6,3 +6,4 @@ Development of a 3D printed cycloidal drive for an electric go kart.  My son has
 * 3D printed construction with purchased hardware and minimal machined components
 * 30:1 gear reduction
 * Design scalable down to 15:1 gear reduction
+* 2 cycloidal discs to reduce vibration
