@@ -4,6 +4,7 @@ Development of a 3D printed cycloidal drive for an electric go kart.  My son has
 # Requirements
 * Fits inline and no larger than NEMA 34 mountings
 * 3D printed construction with purchased hardware and minimal machined components
-* 30:1 gear reduction
-* Design scalable down to 15:1 gear reduction
-* 2 cycloidal discs to reduce vibration
+* 20:1 gear reduction
+* Design scalable down to 10:1 gear reduction
+* 2 or more cycloidal discs to reduce vibration
+* Designed for teknic CPM-____-3432 motors
