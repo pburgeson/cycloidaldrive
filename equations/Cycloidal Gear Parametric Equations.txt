@@ -1,2 +1,11 @@
+10:1
 33*cos(t)+1.5*cos(11*t)-2.5*cos(t+atan(sin(10*t)/(2+cos(10*t))))
 33*sin(t)+1.5*sin(11*t)-2.5*sin(t+atan(sin(10*t)/(2+cos(10*t))))
+
+20:1
+(c) ccentricity = 1 mm
+(b) base radius = 30 mm
+(a) generating circle radius = 1.5 mm
+(q) Ring gear pin radius = 2 mm
+31.5*cos(t)+1*cos(21*t)-2*cos(t+atan(sin(20*t)/(1.5+cos(20*t))))
+31.5*sin(t)+1*sin(21*t)-2*sin(t+atan(sin(20*t)/(1.5+cos(20*t))))
