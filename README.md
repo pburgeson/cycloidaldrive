@@ -8,3 +8,6 @@ Development of a 3D printed cycloidal drive for an electric go kart.  My son has
 * Design scalable down to 10:1 gear reduction
 * 2 or more cycloidal discs to reduce vibration
 * Designed for teknic CPM-____-3432 motors
+
+# Project Conclusion
+An initial design was created and 3D Printed.  The cost of the bearings, pins/axles, and misc hardware exceeded the cost of a purchased planetary gearbox by a wide margin.  Since my primary goal was to get a gearbox on my son's go kart, I saw no reason to continue in the project.
